@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: CMS | holon]]></title>
+  <link href="http://abelsan.github.com/blog/categories/cms/atom.xml" rel="self"/>
+  <link href="http://abelsan.github.com/"/>
+  <updated>2013-03-17T11:31:14-04:00</updated>
+  <id>http://abelsan.github.com/</id>
+  <author>
+    <name><![CDATA[abel sanchez]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Makes a lot of sense]]></title>
+    <link href="http://abelsan.github.com/blog/2013/03/10/makes-a-lot-of-sense/"/>
+    <updated>2013-03-10T22:27:00-04:00</updated>
+    <id>http://abelsan.github.com/blog/2013/03/10/makes-a-lot-of-sense</id>
+    <content type="html"><![CDATA[<p>Great article by a group that has been creating scaleable sites for many years - they did <a href="http://www.whitehouse.gov/">WhiteHouse.gov</a>.</p>
+
+<p>Their idea is simple, CMS' are too complex and expensive to be sustainable over the long run. They claim the can achieve the same with static pages and a <a href="http://developmentseed.org/blog/2012/07/27/build-cms-free-websites/">light tool for production</a>.</p>
+
+<p>I have been thinking about the same but using <a href="http://octopress.org/"></a>Octopress instead of the Prose.io tool they mention.</p>
+
+<p>Makes a lot of sense, we have come full circle.</p>
+]]></content>
+  </entry>
+  
+</feed>
