@@ -4,14 +4,27 @@
   <title><![CDATA[holon]]></title>
   <link href="http://abelsan.github.com/atom.xml" rel="self"/>
   <link href="http://abelsan.github.com/"/>
-  <updated>2013-03-17T14:14:17-04:00</updated>
+  <updated>2013-03-17T16:23:02-04:00</updated>
   <id>http://abelsan.github.com/</id>
   <author>
     <name><![CDATA[abel sanchez]]></name>
-    
+    <email><![CDATA[abel@mit.edu]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[What is Cloud Computing?]]></title>
+    <link href="http://abelsan.github.com/blog/2013/03/17/what-is-cloud-computing/"/>
+    <updated>2013-03-17T14:39:00-04:00</updated>
+    <id>http://abelsan.github.com/blog/2013/03/17/what-is-cloud-computing</id>
+    <content type="html"><![CDATA[<p>What is Cloud Computing? The answer can often be cloudy (pardon the pun).</p>
+
+<p>The students of my class did a great job answering the question in video form. They are Rory, Pierre, and Rachelle – see below.</p>
+
+<p><video width='320' height='240' preload='none' controls poster='http://doval.scripts.mit.edu/video/cloud/preview_large.jpg'><source src='http://doval.scripts.mit.edu/video/cloud/cloud.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Makes a lot of sense]]></title>
