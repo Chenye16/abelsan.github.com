@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Browser | holon]]></title>
+  <link href="http://abelsan.github.com/blog/categories/browser/atom.xml" rel="self"/>
+  <link href="http://abelsan.github.com/"/>
+  <updated>2013-03-17T21:38:47-04:00</updated>
+  <id>http://abelsan.github.com/</id>
+  <author>
+    <name><![CDATA[abel sanchez]]></name>
+    <email><![CDATA[abel@mit.edu]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[New Browser Features]]></title>
+    <link href="http://abelsan.github.com/blog/2013/03/17/new-browser-features/"/>
+    <updated>2013-03-17T21:29:00-04:00</updated>
+    <id>http://abelsan.github.com/blog/2013/03/17/new-browser-features</id>
+    <content type="html"><![CDATA[<p>
+Experimental features that may be comming to the browser, <a href="https://plus.google.com/118075919496626375791/posts/f5HnXFDzoRR">follow the link</a>.
+</p>
+
+
+<p>If you care about browser developments, both <a href="https://plus.google.com/118075919496626375791">Eric Bidelman</a> and <a href="https://plus.google.com/113127438179392830442">Paul Irish</a> are excellent sources for the latest and greatest.</p>
+]]></content>
+  </entry>
+  
+</feed>
