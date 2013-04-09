@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: edX | holon]]></title>
+  <link href="http://abelsan.github.com/blog/categories/edx/atom.xml" rel="self"/>
+  <link href="http://abelsan.github.com/"/>
+  <updated>2013-04-08T20:08:37-04:00</updated>
+  <id>http://abelsan.github.com/</id>
+  <author>
+    <name><![CDATA[abel sanchez]]></name>
+    <email><![CDATA[abel@mit.edu]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Are We The Music Industry?]]></title>
+    <link href="http://abelsan.github.com/blog/2013/04/08/are-we-the-music-industry/"/>
+    <updated>2013-04-08T19:25:00-04:00</updated>
+    <id>http://abelsan.github.com/blog/2013/04/08/are-we-the-music-industry</id>
+    <content type="html"><![CDATA[<p>A few people have asked me about the changes taking place in education. In the posting below, Clay Shirky does a good job capturing the disruption taking place in academia<br>
+<a href="http://www.shirky.com/weblog/2012/11/napster-udacity-and-the-academy/">http://www.shirky.com/weblog/2012/11/napster-udacity-and-the-academy/</a><p>
+
+<p>
+I was struck by the following paragraph
+<div style="font-style:italic;">We have several advantages over the recording industry, of course. We are decentralized and mostly non-profit. We employ lots of smart people. We have previous examples to learn from, and our core competence is learning from the past. And armed with these advantages, we’re probably going to screw this up as badly as the music people did.</div></p>
+
+<p>
+I am more optimistic. I see a lot of enthusiasm and exciting experiments being done internally. Will our institutions react in time to take advantage of these new ideas? The established pattern has been to let the innovators prove their worth in the marketplace.</p>
+
+]]></content>
+  </entry>
+  
+</feed>
