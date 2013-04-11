@@ -4,7 +4,7 @@
   <title><![CDATA[holon]]></title>
   <link href="http://abelsan.github.com/atom.xml" rel="self"/>
   <link href="http://abelsan.github.com/"/>
-  <updated>2013-04-08T20:08:37-04:00</updated>
+  <updated>2013-04-10T20:59:25-04:00</updated>
   <id>http://abelsan.github.com/</id>
   <author>
     <name><![CDATA[abel sanchez]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Never-Ending Fight for Privacy]]></title>
+    <link href="http://abelsan.github.com/blog/2013/04/10/the-never-ending-fight-for-privacy/"/>
+    <updated>2013-04-10T20:52:00-04:00</updated>
+    <id>http://abelsan.github.com/blog/2013/04/10/the-never-ending-fight-for-privacy</id>
+    <content type="html"><![CDATA[<p>I recently switched my phone account to TMobile prepaid services. I liked the freedom of not being tied to a carrier and limiting my information disclosure. I did everything online. I went as far as not giving them my credit card and using a disposable visa card each time.</p>
+
+<p>Everything went well my first time.</p>
+
+<p>The second time, the payment page kept complaining about my disposable visa. After many tries and phone calls it worked.</p>
+
+<p>My third time did not work. Frustrated, I used my standard card. TMobile placed a hold on my transaction three times in a row.</p>
+
+<p>I called TMobile and they requested my birthday, my car model and year, and SSN. I complained. I got no sympathy.</p>
+
+<p>At that point I had two choices. Cancel my account or handover my information. I cancelled my account.</p>
+
+<p>I am so happy I use a Google Number, the abstraction allows me to change my phone service at will.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Are We The Music Industry?]]></title>
