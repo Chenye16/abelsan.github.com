@@ -4,7 +4,7 @@
   <title><![CDATA[holon]]></title>
   <link href="http://abelsan.github.com/atom.xml" rel="self"/>
   <link href="http://abelsan.github.com/"/>
-  <updated>2013-04-10T20:59:25-04:00</updated>
+  <updated>2013-04-15T14:35:12-04:00</updated>
   <id>http://abelsan.github.com/</id>
   <author>
     <name><![CDATA[abel sanchez]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[JavaScript Memory Profiling]]></title>
+    <link href="http://abelsan.github.com/blog/2013/04/15/javascript-memory-profiling/"/>
+    <updated>2013-04-15T13:06:00-04:00</updated>
+    <id>http://abelsan.github.com/blog/2013/04/15/javascript-memory-profiling</id>
+    <content type="html"><![CDATA[<p>I just watched &#8220;Memory Profiling with Chrome DevTools&#8221;. I enjoyed the video a lot. You can see the building blocks for great debugging coming together in the browser. Kudos to the &#8220;Developer Tools&#8221; team at Google.</p>
+
+<figure>
+    <iframe width="560" height="315" src="http://www.youtube.com/embed/L3ugr9BJqIs?rel=0" frameborder="0" allowfullscreen></iframe>
+    <figcaption>YouTube</figcaption>
+</figure>
+
+
+
+
+<div class="videoContainer">
+    <div class="videoVendor">
+
+        <iframe width="560" height="315" src="http://www.youtube.com/embed/L3ugr9BJqIs?rel=0" frameborder="0" allowfullscreen></iframe>
+
+    </div>
+</div>
+
+
+
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/L3ugr9BJqIs?rel=0" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Never-Ending Fight for Privacy]]></title>
