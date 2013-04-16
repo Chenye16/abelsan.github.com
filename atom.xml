@@ -4,7 +4,7 @@
   <title><![CDATA[holon]]></title>
   <link href="http://abelsan.github.com/atom.xml" rel="self"/>
   <link href="http://abelsan.github.com/"/>
-  <updated>2013-04-15T14:41:11-04:00</updated>
+  <updated>2013-04-15T22:05:23-04:00</updated>
   <id>http://abelsan.github.com/</id>
   <author>
     <name><![CDATA[abel sanchez]]></name>
@@ -20,10 +20,10 @@
     <id>http://abelsan.github.com/blog/2013/04/15/javascript-memory-profiling</id>
     <content type="html"><![CDATA[<p>I just watched &#8220;Memory Profiling with Chrome DevTools&#8221;. I enjoyed the video a lot. You can see the building blocks for great debugging coming together in the browser. Kudos to the &#8220;Developer Tools&#8221; team at Google.</p>
 
-<figure>
+<div class="videoWrapper">
+    <!-- Copy & Pasted from YouTube -->
     <iframe width="560" height="315" src="http://www.youtube.com/embed/L3ugr9BJqIs?rel=0" frameborder="0" allowfullscreen></iframe>
-    <figcaption>YouTube</figcaption>
-</figure>
+</div>
 
 ]]></content>
   </entry>
