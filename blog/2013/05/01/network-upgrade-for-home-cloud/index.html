@@ -5,7 +5,7 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>JavaScript Memory Profiling - holon</title>
+  <title>Network Upgrade for Home Cloud - holon</title>
   <meta name="author" content="abel sanchez">
   <link rel="author" href="humans.txt">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -13,7 +13,7 @@
   
     
   
-  <meta name="description" content="I just watched &#8220;Memory Profiling with Chrome DevTools&#8221;. I enjoyed the video a lot. You can see the building blocks for great debugging &hellip;">
+  <meta name="description" content="I recently put together a home cloud. Of course, now I need to upgrade my home networking. None of my Ethernet cables support gigabit and my router &hellip;">
   
   <!-- http://t.co/dKP3o1e -->
   <meta name="HandheldFriendly" content="True">
@@ -21,20 +21,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://abelsan.github.com/blog/2013/04/15/javascript-memory-profiling/">
+  <link rel="canonical" href="http://abelsan.github.com/blog/2013/05/01/network-upgrade-for-home-cloud/">
   <link href="/favicon.png" rel="icon">
   <link href='http://fonts.googleapis.com/css?family=Cantarell' rel='stylesheet' type='text/css'>
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="holon" type="application/atom+xml">
   <meta name="og:type" content="website" />
   <meta name="og:site_name" content="holon" />
-  <meta name="og:title" content="JavaScript Memory Profiling" />
-  <meta name="og:description" content="I just watched &#8220;Memory Profiling with Chrome DevTools&#8221;. I enjoyed the video a lot. You can see the building blocks for great debugging &hellip;" />
-  <meta name="og:url" content="http://abelsan.github.com/blog/2013/04/15/javascript-memory-profiling/"/>
-  <meta name="url" content="http://abelsan.github.com/blog/2013/04/15/javascript-memory-profiling/">
+  <meta name="og:title" content="Network Upgrade for Home Cloud" />
+  <meta name="og:description" content="I recently put together a home cloud. Of course, now I need to upgrade my home networking. None of my Ethernet cables support gigabit and my router &hellip;" />
+  <meta name="og:url" content="http://abelsan.github.com/blog/2013/05/01/network-upgrade-for-home-cloud/"/>
+  <meta name="url" content="http://abelsan.github.com/blog/2013/05/01/network-upgrade-for-home-cloud/">
   
-  <meta name="subject" content="JavaScriptMemoryProfiling"/>
-  <meta name="category" content="JavaScriptMemoryProfiling"/>
+  <meta name="subject" content="CloudHomeNASStorage"/>
+  <meta name="category" content="CloudHomeNASStorage"/>
   
   <meta name="distribution" content="global">
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
@@ -90,7 +90,7 @@
 
   <header>
     
-      <h1 class="entry-title">JavaScript Memory Profiling</h1>
+      <h1 class="entry-title">Network Upgrade for Home Cloud</h1>
     
     
       <p class="meta">
@@ -115,13 +115,13 @@
   
 
 
-<time datetime="2013-04-15T13:06:00-04:00" pubdate data-updated="true">Apr 15<span>th</span>, 2013</time> - 
+<time datetime="2013-05-01T21:59:00-04:00" pubdate data-updated="true">May 1<span>st</span>, 2013</time> - 
         
 
 posted in
 <span class="categories">
   
-    <a class='category' href='/blog/categories/javascript/'>JavaScript</a>, <a class='category' href='/blog/categories/memory/'>Memory</a>, <a class='category' href='/blog/categories/profiling/'>Profiling</a>
+    <a class='category' href='/blog/categories/cloud/'>Cloud</a>, <a class='category' href='/blog/categories/home/'>Home</a>, <a class='category' href='/blog/categories/nas/'>NAS</a>, <a class='category' href='/blog/categories/storage/'>Storage</a>
   
 </span>
 
@@ -132,13 +132,25 @@ posted in
   </header>
 
 
-  <div class="entry-content"><p>I just watched &#8220;Memory Profiling with Chrome DevTools&#8221;. I enjoyed the video a lot. You can see the building blocks for great debugging coming together in the browser. Kudos to the &#8220;Developer Tools&#8221; team at Google.</p>
+  <div class="entry-content"><p>I recently put together a home cloud. Of course, now I need to upgrade my home networking. None of my Ethernet cables support gigabit and my router is two orders of magnitude behind current capabilities. It does not support jumbo frames either.</p>
 
-<div class="videoWrapper">
-    <!-- Copy & Pasted from YouTube -->
-    <iframe width="560" height="315" src="http://www.youtube.com/embed/L3ugr9BJqIs?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
+<p>With recommendations from colleagues, I went to newegg and purchased a new batch of networking equipment.</p>
 
+<p><a href="http://mit.edu/doval/www/assets/img/blog/networking_equipment.jpg">
+<img src="http://mit.edu/doval/www/assets/img/blog/networking_equipment_500.jpg">
+</a></p>
+
+<p>Most home Internet service is delivered through cable companies. Luckily, in my area I can get FIOS, fiber directly to the house. As great as that is, the default installation converts to coaxial cabling using the Optical Network Terminal (ONT) at the house.  Doing some more research, I found the ONT could use Ethernet instead of coaxial.</p>
+
+<p>I had the fun experience of calling tech support and asking, “Can you change my ONT’s connection to the router from coax to Ethernet? Oh, while you are at it, I also need you to break the router’s DHCP lease.” It took a few tries but Kudos to FIOS tech support; they were knowledgeable and on the ball.</p>
+
+<p>After running cable through the house, installing my new router, testing the connections, and making the ONT switch to Ethernet and I was up and running.</p>
+
+<p>I am very happy. My internal transfer speeds are screaming fast.</p>
+
+<p>What is taking the most time is integrating 10 years of data. Most of my old drives are brutally slow. I am currently transferring data from two old external drives. The transfer is in 38th hour!</p>
+
+<p>Once I am done with the transfers, I will the face the scary task of sorting through the data and giving it some sensible structure. I am living my own personal Big Data challenge (grin).</p>
 </div>
 
 
@@ -165,13 +177,13 @@ posted in
   
 
 
-<time datetime="2013-04-15T13:06:00-04:00" pubdate data-updated="true">Apr 15<span>th</span>, 2013</time>
+<time datetime="2013-05-01T21:59:00-04:00" pubdate data-updated="true">May 1<span>st</span>, 2013</time>
       
 
 posted in
 <span class="categories">
   
-    <a class='category' href='/blog/categories/javascript/'>JavaScript</a>, <a class='category' href='/blog/categories/memory/'>Memory</a>, <a class='category' href='/blog/categories/profiling/'>Profiling</a>
+    <a class='category' href='/blog/categories/cloud/'>Cloud</a>, <a class='category' href='/blog/categories/home/'>Home</a>, <a class='category' href='/blog/categories/nas/'>NAS</a>, <a class='category' href='/blog/categories/storage/'>Storage</a>
   
 </span>
 
@@ -180,17 +192,15 @@ posted in
     
       <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://abelsan.github.com/blog/2013/04/15/javascript-memory-profiling/" data-via="abelsan" data-counturl="http://abelsan.github.com/blog/2013/04/15/javascript-memory-profiling/" >Tweet</a>
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://abelsan.github.com/blog/2013/05/01/network-upgrade-for-home-cloud/" data-via="abelsan" data-counturl="http://abelsan.github.com/blog/2013/05/01/network-upgrade-for-home-cloud/" >Tweet</a>
   
   
   
 </div>
     
     
-      <a class="pull-left" href="/blog/2013/04/10/the-never-ending-fight-for-privacy/" title="Previous Post: The Never-Ending Fight for Privacy">&laquo; The Never-Ending Fight for Privacy</a>
+      <a class="pull-left" href="/blog/2013/05/01/building-a-home-cloud/" title="Previous Post: Building a Home Cloud">&laquo; Building a Home Cloud</a>
     
-    
-      <a class="pull-right" href="/blog/2013/05/01/building-a-home-cloud/" title="Next Post: Building a Home Cloud">Building a Home Cloud &raquo;</a>
     
   </footer>
 
