@@ -4,7 +4,7 @@
   <title><![CDATA[holon]]></title>
   <link href="http://abelsan.github.com/atom.xml" rel="self"/>
   <link href="http://abelsan.github.com/"/>
-  <updated>2013-05-17T05:19:41-04:00</updated>
+  <updated>2013-05-17T05:37:25-04:00</updated>
   <id>http://abelsan.github.com/</id>
   <author>
     <name><![CDATA[abel sanchez]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Case for JavaScript]]></title>
+    <link href="http://abelsan.github.com/blog/2013/05/17/the-case-for-javascript/"/>
+    <updated>2013-05-17T05:32:00-04:00</updated>
+    <id>http://abelsan.github.com/blog/2013/05/17/the-case-for-javascript</id>
+    <content type="html"><![CDATA[<p>Why JavaScript? I make a case for the growing importance of JavaScript.</p>
+
+<div class="videoWrapper">
+    <!-- Copy & Pasted from YouTube -->
+    <iframe width="560" height="315" src="http://mit.edu/doval/www/assets/video/why_javascript.mp4" frameborder="0" allowfullscreen></iframe>
+</div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Teaching of Formal Programming]]></title>
