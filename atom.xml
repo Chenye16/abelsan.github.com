@@ -4,7 +4,7 @@
   <title><![CDATA[holon]]></title>
   <link href="http://abelsan.github.com/atom.xml" rel="self"/>
   <link href="http://abelsan.github.com/"/>
-  <updated>2013-05-02T08:55:41-04:00</updated>
+  <updated>2013-05-17T05:10:11-04:00</updated>
   <id>http://abelsan.github.com/</id>
   <author>
     <name><![CDATA[abel sanchez]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Teaching of Formal Programming]]></title>
+    <link href="http://abelsan.github.com/blog/2013/05/16/the-teaching-of-formal-programming/"/>
+    <updated>2013-05-16T10:36:00-04:00</updated>
+    <id>http://abelsan.github.com/blog/2013/05/16/the-teaching-of-formal-programming</id>
+    <content type="html"><![CDATA[<p>I read the following last night. It strikes me we could substitute writing for programming and it would hold.</p>
+
+<p><i>For decades researchers have been telling us that &#8220;the teaching of formal grammar has a negligible or &#8230; even a harmful effect on the teaching of writing&#8221; (Richard Braddock, Richard Lloyd-Jones, Lowell Schoer, Research in Written Composition, 1963). I agree if by &#8220;the teaching of formal grammar&#8221; is meant memorizing the parts of speech or rehearsing the distinction between dependent and independent clauses or listing the uses of the subjunctive. That kind of rote knowledge is merely taxonomic. It explains nothing; students who acquire it have learned nothing about how to write, and it is no surprise when research demonstrate its nonutility.</i>
+[Book: How to Write a Sentence, Stanley Fish]</p>
+
+<p>At MIT, I get to meet students from all over the world. I have heard from several that they took programming courses without computers. For example, they studied and took exams based on a Java book but never actually wrote programs on computer!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Network Upgrade for Home Cloud]]></title>
