@@ -4,7 +4,7 @@
   <title><![CDATA[holon]]></title>
   <link href="http://abelsan.github.com/atom.xml" rel="self"/>
   <link href="http://abelsan.github.com/"/>
-  <updated>2013-05-17T05:37:25-04:00</updated>
+  <updated>2013-05-17T05:45:29-04:00</updated>
   <id>http://abelsan.github.com/</id>
   <author>
     <name><![CDATA[abel sanchez]]></name>
@@ -20,11 +20,7 @@
     <id>http://abelsan.github.com/blog/2013/05/17/the-case-for-javascript</id>
     <content type="html"><![CDATA[<p>Why JavaScript? I make a case for the growing importance of JavaScript.</p>
 
-<div class="videoWrapper">
-    <!-- Copy & Pasted from YouTube -->
-    <iframe width="560" height="315" src="http://mit.edu/doval/www/assets/video/why_javascript.mp4" frameborder="0" allowfullscreen></iframe>
-</div>
-
+<p><video width='320' height='240' preload='none' controls poster='http://mit.edu/doval/www/assets/video/why_javascript.jpg'><source src='http://mit.edu/doval/www/assets/video/why_javascript.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
 ]]></content>
   </entry>
   
