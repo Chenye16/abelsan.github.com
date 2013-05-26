@@ -4,7 +4,7 @@
   <title><![CDATA[holon]]></title>
   <link href="http://abelsan.github.com/atom.xml" rel="self"/>
   <link href="http://abelsan.github.com/"/>
-  <updated>2013-05-17T06:25:45-04:00</updated>
+  <updated>2013-05-26T19:16:35-04:00</updated>
   <id>http://abelsan.github.com/</id>
   <author>
     <name><![CDATA[abel sanchez]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Make Learning Human]]></title>
+    <link href="http://abelsan.github.com/blog/2013/05/26/make-learning-human/"/>
+    <updated>2013-05-26T18:56:00-04:00</updated>
+    <id>http://abelsan.github.com/blog/2013/05/26/make-learning-human</id>
+    <content type="html"><![CDATA[<p>As a teacher, your first and most important goal is to capture the attention of the listener. If you fail, nothing else will matter.</p>
+
+<p>The techniques vary from speaker to speaker but invariable they comprise volume, timing, suspense, and tone. For example, a colleague once told me, &#8220;lowering your voice is like using bold on text&#8221;.</p>
+
+<p>When it comes to writing, a similar process takes place. I have been reading, &#8220;Unless It Moves the Human Heart: The Craft and Art of Writing&#8221;. Much like in teaching, if we fail to make the human connection, we loose our audience.</p>
+
+<p>Khan was on campus recently. In one of his answers, I heard the same argument:</p>
+
+<blockquote><p>I cannot understate the fact that I was making it for my cousin. The fact that I was their tutor, that I had a human connection when I was making the videos. If I were making these for Bill Gates, I would have messed up. I would have fallen into the trap of high production. I would have needed a team of script writers, a team of computer graphics engineers, and voice over actors. The output of that process looks great but but does not feel very human.</p><footer><strong>Khan</strong> <cite>Key to Success</cite></footer></blockquote>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Case for JavaScript]]></title>
