@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Maps | holon]]></title>
   <link href="http://abelsan.github.com/blog/categories/maps/atom.xml" rel="self"/>
   <link href="http://abelsan.github.com/"/>
-  <updated>2013-05-29T23:03:41-04:00</updated>
+  <updated>2013-05-29T23:11:25-04:00</updated>
   <id>http://abelsan.github.com/</id>
   <author>
     <name><![CDATA[abel sanchez]]></name>
@@ -20,15 +20,19 @@
     <id>http://abelsan.github.com/blog/2013/05/29/new-google-maps-are-silky-smooth</id>
     <content type="html"><![CDATA[<p>I just tried the new Google Maps. Two words, "silky smooth".</p>
 
-<p>My likes:
-1) Silky smooth panning/zooming
-2) Significantly faster load times
-3) Street level photos
-4) Mapping of photos to locations
-5) Modern control icons
-   (the older ones feel dated)
-6) Good use of transparency and color palette
-7) Improved street and business data</p>
+<p>My likes:</p>
+
+<ul>
+<li>Silky smooth panning/zooming</li>
+<li>Significantly faster load times</li>
+<li>Street level photos</li> 
+<li>Mapping of photos to locations</li>
+<li>Modern control icons
+   (the older ones feel dated)</li>
+<li>Good use of transparency and color palette</li>
+<li>Improved street and business data</li>
+</ul>
+
 
 <p>I am not going back.</p>
 ]]></content>
