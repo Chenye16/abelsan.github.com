@@ -4,7 +4,7 @@
   <title><![CDATA[holon]]></title>
   <link href="http://abelsan.github.com/atom.xml" rel="self"/>
   <link href="http://abelsan.github.com/"/>
-  <updated>2013-05-26T19:16:35-04:00</updated>
+  <updated>2013-05-29T23:03:41-04:00</updated>
   <id>http://abelsan.github.com/</id>
   <author>
     <name><![CDATA[abel sanchez]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[New Google Maps Are Silky Smooth]]></title>
+    <link href="http://abelsan.github.com/blog/2013/05/29/new-google-maps-are-silky-smooth/"/>
+    <updated>2013-05-29T23:01:00-04:00</updated>
+    <id>http://abelsan.github.com/blog/2013/05/29/new-google-maps-are-silky-smooth</id>
+    <content type="html"><![CDATA[<p>I just tried the new Google Maps. Two words, &#8220;silky smooth&#8221;.</p>
+
+<p>My likes:
+1) Silky smooth panning/zooming
+2) Significantly faster load times
+3) Street level photos
+4) Mapping of photos to locations
+5) Modern control icons
+   (the older ones feel dated)
+6) Good use of transparency and color palette
+7) Improved street and business data</p>
+
+<p>I am not going back.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Make Learning Human]]></title>
