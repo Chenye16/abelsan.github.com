@@ -4,7 +4,7 @@
   <title><![CDATA[Category: teaching | holon]]></title>
   <link href="http://abelsan.github.com/blog/categories/teaching/atom.xml" rel="self"/>
   <link href="http://abelsan.github.com/"/>
-  <updated>2013-05-29T23:11:25-04:00</updated>
+  <updated>2013-06-29T17:08:50-04:00</updated>
   <id>http://abelsan.github.com/</id>
   <author>
     <name><![CDATA[abel sanchez]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Naming Lighting]]></title>
+    <link href="http://abelsan.github.com/blog/2013/06/29/naming-lighting/"/>
+    <updated>2013-06-29T16:16:00-04:00</updated>
+    <id>http://abelsan.github.com/blog/2013/06/29/naming-lighting</id>
+    <content type="html"><![CDATA[<p>Mark Twain famously said, "The difference between the almost right word &amp; the right word is really a large matter--it's the difference between the lightning bug and the lightning."</p>
+
+<p>When it comes to naming variables, objects, functions, classes, and namespaces, the same applies.</p>
+
+<p>Clarity and expressiveness come with experience. However, the beginner can still learn a lot by looking at conventions, best practices, reading code from peers, and thinking hard about word that best express the programmer's intent.</p>
+
+<p><img src="http://mit.edu/doval/www/assets/img/blog/lightning.jpg"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Make Learning Human]]></title>
