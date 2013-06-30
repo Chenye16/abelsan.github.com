@@ -4,7 +4,7 @@
   <title><![CDATA[holon]]></title>
   <link href="http://abelsan.github.com/atom.xml" rel="self"/>
   <link href="http://abelsan.github.com/"/>
-  <updated>2013-06-29T17:08:50-04:00</updated>
+  <updated>2013-06-30T16:02:42-04:00</updated>
   <id>http://abelsan.github.com/</id>
   <author>
     <name><![CDATA[abel sanchez]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Password Firewall]]></title>
+    <link href="http://abelsan.github.com/blog/2013/06/29/password-firewall/"/>
+    <updated>2013-06-29T17:24:00-04:00</updated>
+    <id>http://abelsan.github.com/blog/2013/06/29/password-firewall</id>
+    <content type="html"><![CDATA[<p>I have been working on Negative Authentication(NA) for the past year. NA is an approach that utilizes a form of complement profiles which resembles the censoring and maturation process of T-cells in the immune system.</p>
+
+<p>Practically, NA is an additional invisible layer of password protection to the user. You can think of it as a mathematical plane that leaves small openings for the real passwords and blocks the rest.</p>
+
+<p><img src="http://mit.edu/doval/www/assets/img/blog/nas_firewall.jpg"></p>
+
+<p>In a way, Negative Authentication is a firewall for passwords, a way to detect the anti-passwords.</p>
+
+<p>Below is a short video overview</p>
+
+<p><video width='320' height='240' preload='none' controls poster='http://mit.edu/doval/www/assets/img/blog/nas.jpg'><source src='http://doval.scripts.mit.edu/video/nas/nas_720x404.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Naming Lighting]]></title>
@@ -22,7 +41,7 @@
 
 <p>When it comes to naming variables, objects, functions, classes, and namespaces, the same applies.</p>
 
-<p>Clarity and expressiveness come with experience. However, the beginner can still learn a lot by looking at conventions, best practices, reading code from peers, and thinking hard about word that best express the programmer&#8217;s intent.</p>
+<p>Clarity and expressiveness come with experience. However, the beginner can still learn a lot by looking at conventions, best practices, reading code from peers, and thinking hard about a word that best express the programmer&#8217;s intent.</p>
 
 <p><img src="http://mit.edu/doval/www/assets/img/blog/lightning.jpg"></p>
 ]]></content>

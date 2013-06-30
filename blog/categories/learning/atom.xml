@@ -4,7 +4,7 @@
   <title><![CDATA[Category: learning | holon]]></title>
   <link href="http://abelsan.github.com/blog/categories/learning/atom.xml" rel="self"/>
   <link href="http://abelsan.github.com/"/>
-  <updated>2013-06-29T17:08:50-04:00</updated>
+  <updated>2013-06-30T16:02:42-04:00</updated>
   <id>http://abelsan.github.com/</id>
   <author>
     <name><![CDATA[abel sanchez]]></name>
@@ -22,7 +22,7 @@
 
 <p>When it comes to naming variables, objects, functions, classes, and namespaces, the same applies.</p>
 
-<p>Clarity and expressiveness come with experience. However, the beginner can still learn a lot by looking at conventions, best practices, reading code from peers, and thinking hard about word that best express the programmer's intent.</p>
+<p>Clarity and expressiveness come with experience. However, the beginner can still learn a lot by looking at conventions, best practices, reading code from peers, and thinking hard about a word that best express the programmer's intent.</p>
 
 <p><img src="http://mit.edu/doval/www/assets/img/blog/lightning.jpg"></p>
 ]]></content>
