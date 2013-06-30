@@ -4,7 +4,7 @@
   <title><![CDATA[Category: authentication | holon]]></title>
   <link href="http://abelsan.github.com/blog/categories/authentication/atom.xml" rel="self"/>
   <link href="http://abelsan.github.com/"/>
-  <updated>2013-06-30T16:02:42-04:00</updated>
+  <updated>2013-06-30T16:06:20-04:00</updated>
   <id>http://abelsan.github.com/</id>
   <author>
     <name><![CDATA[abel sanchez]]></name>
@@ -22,13 +22,13 @@
 
 <p>Practically, NA is an additional invisible layer of password protection to the user. You can think of it as a mathematical plane that leaves small openings for the real passwords and blocks the rest.</p>
 
-<p><img src="http://mit.edu/doval/www/assets/img/blog/nas_firewall.jpg"></p>
+<p><img src="http://mit.edu/doval/www/assets/img/blog/nas_firewall.png"></p>
 
 <p>In a way, Negative Authentication is a firewall for passwords, a way to detect the anti-passwords.</p>
 
 <p>Below is a short video overview</p>
 
-<p><video width='320' height='240' preload='none' controls poster='http://mit.edu/doval/www/assets/img/blog/nas.jpg'><source src='http://doval.scripts.mit.edu/video/nas/nas_720x404.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
+<p><video width='320' height='240' preload='none' controls poster='http://mit.edu/doval/www/assets/img/blog/nas_720.jpg'><source src='http://doval.scripts.mit.edu/video/nas/nas_720x404.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
 ]]></content>
   </entry>
   
