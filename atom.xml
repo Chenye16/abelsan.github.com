@@ -4,7 +4,7 @@
   <title><![CDATA[holon]]></title>
   <link href="http://abelsan.github.com/atom.xml" rel="self"/>
   <link href="http://abelsan.github.com/"/>
-  <updated>2013-06-30T16:06:20-04:00</updated>
+  <updated>2013-08-05T13:21:51-04:00</updated>
   <id>http://abelsan.github.com/</id>
   <author>
     <name><![CDATA[abel sanchez]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[imitate proudly]]></title>
+    <link href="http://abelsan.github.com/blog/2013/08/05/imitate-proudly/"/>
+    <updated>2013-08-05T12:50:00-04:00</updated>
+    <id>http://abelsan.github.com/blog/2013/08/05/imitate-proudly</id>
+    <content type="html"><![CDATA[<p>We are often given negative feedback on imitation. When it comes to learning to program, Salvador Dali said it best:</p>
+
+<p>“Those who do not want to imitate anything, produce nothing.”</p>
+
+<p>As you get started programing, imitate proudly, it’s the quickest way to learn.
+<img src="http://mit.edu/doval/www/assets/img/blog/dali_500.jpg"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[lightning bug and lightning]]></title>
+    <link href="http://abelsan.github.com/blog/2013/08/05/lightning-bug-and-lightning/"/>
+    <updated>2013-08-05T11:50:00-04:00</updated>
+    <id>http://abelsan.github.com/blog/2013/08/05/lightning-bug-and-lightning</id>
+    <content type="html"><![CDATA[<p>Mark Twain famously said, &#8220;The difference between the almost right word &amp; the right word is really a large matter&#8211;it&#8217;s the difference between the lightning bug and the lightning.&#8221;</p>
+
+<p>When it comes to naming variables, objects, functions, classes, and namespaces, the same applies.</p>
+
+<p>Clarity and expressiveness come with experience. However, the beginner can still learn a lot by looking at conventions, best practices, reading code from peers, and thinking hard about a word that best express the programmer&#8217;s intent.</p>
+
+<p><img src="http://mit.edu/doval/www/assets/img/blog/lightning.jpg"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Password Firewall]]></title>
@@ -29,21 +58,6 @@
 <p>Below is a short video overview</p>
 
 <p><video width='320' height='240' preload='none' controls poster='http://mit.edu/doval/www/assets/img/blog/nas_720.jpg'><source src='http://doval.scripts.mit.edu/video/nas/nas_720x404.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Naming Lighting]]></title>
-    <link href="http://abelsan.github.com/blog/2013/06/29/naming-lighting/"/>
-    <updated>2013-06-29T16:16:00-04:00</updated>
-    <id>http://abelsan.github.com/blog/2013/06/29/naming-lighting</id>
-    <content type="html"><![CDATA[<p>Mark Twain famously said, &#8220;The difference between the almost right word &amp; the right word is really a large matter&#8211;it&#8217;s the difference between the lightning bug and the lightning.&#8221;</p>
-
-<p>When it comes to naming variables, objects, functions, classes, and namespaces, the same applies.</p>
-
-<p>Clarity and expressiveness come with experience. However, the beginner can still learn a lot by looking at conventions, best practices, reading code from peers, and thinking hard about a word that best express the programmer&#8217;s intent.</p>
-
-<p><img src="http://mit.edu/doval/www/assets/img/blog/lightning.jpg"></p>
 ]]></content>
   </entry>
   

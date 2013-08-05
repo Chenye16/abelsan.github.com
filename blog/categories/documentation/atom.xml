@@ -4,7 +4,7 @@
   <title><![CDATA[Category: documentation | holon]]></title>
   <link href="http://abelsan.github.com/blog/categories/documentation/atom.xml" rel="self"/>
   <link href="http://abelsan.github.com/"/>
-  <updated>2013-06-30T16:06:20-04:00</updated>
+  <updated>2013-08-05T13:21:51-04:00</updated>
   <id>http://abelsan.github.com/</id>
   <author>
     <name><![CDATA[abel sanchez]]></name>
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Naming Lighting]]></title>
-    <link href="http://abelsan.github.com/blog/2013/06/29/naming-lighting/"/>
-    <updated>2013-06-29T16:16:00-04:00</updated>
-    <id>http://abelsan.github.com/blog/2013/06/29/naming-lighting</id>
+    <title type="html"><![CDATA[lightning bug and lightning]]></title>
+    <link href="http://abelsan.github.com/blog/2013/08/05/lightning-bug-and-lightning/"/>
+    <updated>2013-08-05T11:50:00-04:00</updated>
+    <id>http://abelsan.github.com/blog/2013/08/05/lightning-bug-and-lightning</id>
     <content type="html"><![CDATA[<p>Mark Twain famously said, "The difference between the almost right word &amp; the right word is really a large matter--it's the difference between the lightning bug and the lightning."</p>
 
 <p>When it comes to naming variables, objects, functions, classes, and namespaces, the same applies.</p>
