@@ -4,7 +4,7 @@
   <title><![CDATA[holon]]></title>
   <link href="http://abelsan.github.com/atom.xml" rel="self"/>
   <link href="http://abelsan.github.com/"/>
-  <updated>2013-08-05T13:21:51-04:00</updated>
+  <updated>2013-08-22T13:50:18-04:00</updated>
   <id>http://abelsan.github.com/</id>
   <author>
     <name><![CDATA[abel sanchez]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[nothing can serve as money too]]></title>
+    <link href="http://abelsan.github.com/blog/2013/08/22/nothing-can-serve-as-money-too/"/>
+    <updated>2013-08-22T13:34:00-04:00</updated>
+    <id>http://abelsan.github.com/blog/2013/08/22/nothing-can-serve-as-money-too</id>
+    <content type="html"><![CDATA[<p>
+I have been enjoying, &#8220;The Ascent of Money: A Financial History of the World&#8221;. I was struck by the following section:
+ <div style="font-style:italic;">money is a matter of belief, even faith: belief in the person paying us; belief in the person issuing the money he uses or the institution that honours his cheques or transfers. Money is not metal. It is trust inscribed. And it does not seem to matter much where it is inscribed: on silver, on clay, on paper, on a liquid crystal display. Anything can serve as money. From the cowrie shells of the Maldives to the huge stone discs used on the Pacific islands of Yap. And now, it seems, in this electronic age nothing can serve as money too.</div></p>
+
+
+<p>
+ As bitcoin evolves, I look forward to the evolution of electronic age of money.</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[imitate proudly]]></title>
