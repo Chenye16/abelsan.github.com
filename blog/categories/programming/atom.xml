@@ -4,7 +4,7 @@
   <title><![CDATA[Category: programming | holon]]></title>
   <link href="http://abelsan.github.com/blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://abelsan.github.com/"/>
-  <updated>2013-08-22T13:50:18-04:00</updated>
+  <updated>2013-08-31T12:06:56-04:00</updated>
   <id>http://abelsan.github.com/</id>
   <author>
     <name><![CDATA[abel sanchez]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Particular Becomes the Portal on the Transcendent]]></title>
+    <link href="http://abelsan.github.com/blog/2013/08/31/the-particular-becomes-the-portal-on-the-transcendent/"/>
+    <updated>2013-08-31T12:00:00-04:00</updated>
+    <id>http://abelsan.github.com/blog/2013/08/31/the-particular-becomes-the-portal-on-the-transcendent</id>
+    <content type="html"><![CDATA[<p>In a completely different context to programming, I happened onto an interview that made a great point on abstraction versus the problem. However, when it comes to teaching programming, I completely agree.</p>
+
+<p>BILL MOYERS: You know, Campbell told me that that was the great appeal to him of Carl Jung. That Jung wrapped his psychology into the stories of what had actually happened in his life and, and in the lives of the people sitting in front of him. And if he could get somebody into a story, he knew that person would discover who he was more likely than if he dealt with just abstract ideas.</p>
+
+<p>MARSHALL GANZ: Boy, it is so true. It's the particular. See, we often think, we associate understanding with abstraction. It's just the opposite.</p>
+
+<p>BILL MOYERS: That's right.</p>
+
+<p>MARSHALL GANZ: The particular then becomes the portal on the transcendent, because it's through the particular experience that I'm able then to communicate the emotional content of the value that is moving me.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[lightning bug and lightning]]></title>
