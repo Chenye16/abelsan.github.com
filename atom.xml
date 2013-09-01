@@ -4,7 +4,7 @@
   <title><![CDATA[holon]]></title>
   <link href="http://abelsan.github.com/atom.xml" rel="self"/>
   <link href="http://abelsan.github.com/"/>
-  <updated>2013-08-31T12:15:14-04:00</updated>
+  <updated>2013-09-01T14:17:46-04:00</updated>
   <id>http://abelsan.github.com/</id>
   <author>
     <name><![CDATA[abel sanchez]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Manifest Thought]]></title>
+    <link href="http://abelsan.github.com/blog/2013/09/01/manifest-thought/"/>
+    <updated>2013-09-01T14:02:00-04:00</updated>
+    <id>http://abelsan.github.com/blog/2013/09/01/manifest-thought</id>
+    <content type="html"><![CDATA[<p>One of the most prodigious powers in science fiction is the power to &#8220;manifest thought&#8221;. With computer programming, &#8220;The magic of myth and legend has come true in our time&#8221;.</p>
+
+<blockquote><p>Yet, the program construct, unlike the poet’s words, is real in the sense that it moves and works, producing visible outputs separately from the contruct itself. It prints results, draws pictures, produces sounds, moves arms. The magic of myth and legend has come true in our time. One types the correct incantation at the keyboard, and a display screen comes to life showing things that never were nor could be.</p><p>Programming then is fun because it gratifies creative longings built deep within us and delights sensibilities we have in common with all men.</p><footer><strong>Fred Brooks</strong> <cite>The Mythical Man Month</cite></footer></blockquote>
+
+
+<p><img src="http://mit.edu/doval/www/assets/img/blog/taken.jpg"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Particular Becomes the Portal on the Transcendent]]></title>
