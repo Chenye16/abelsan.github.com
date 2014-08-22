@@ -4,7 +4,7 @@
   <title><![CDATA[holon]]></title>
   <link href="http://abelsan.github.com/atom.xml" rel="self"/>
   <link href="http://abelsan.github.com/"/>
-  <updated>2013-09-01T14:17:46-04:00</updated>
+  <updated>2014-08-22T11:55:31-04:00</updated>
   <id>http://abelsan.github.com/</id>
   <author>
     <name><![CDATA[abel sanchez]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Cloud Abstractions]]></title>
+    <link href="http://abelsan.github.com/blog/2014/08/22/cloud-abstractions/"/>
+    <updated>2014-08-22T11:45:00-04:00</updated>
+    <id>http://abelsan.github.com/blog/2014/08/22/cloud-abstractions</id>
+    <content type="html"><![CDATA[<p>Many of us are working on code bases that require high scalability. In this context, there are a couple patterns I have observed over the past year that appear to be formalizing. Both of these could impact our work.</p>
+
+<p>The first is Docker. If you have not used it, the platform abstracts the OS and greatly simplifies deployment. It provides the advantages of a VM, without the weight/size. If a virtual machine is applications+libraries+operatingSystem, then docker is applications+libraries.
+<a href="https://www.youtube.com/watch?v=ZzQfxoMFH0U">
+https://www.youtube.com/watch?v=ZzQfxoMFH0U
+</a>
+<a href="https://www.docker.com/">
+https://www.docker.com/
+</a></p>
+
+<p>The second pattern is abstracting the datacenter into one machine. There are two successful projects. The first started at Twitter, Mesos. The second is from Google, Kubernetes, leverages Docker.
+<a href="https://www.youtube.com/watch?v=Cby5180Q5_o">
+https://www.youtube.com/watch?v=Cby5180Q5_o
+</a>
+<a href="https://github.com/GoogleCloudPlatform/kubernetes">
+https://github.com/GoogleCloudPlatform/kubernetes
+</a></p>
+
+<p>Both Mesos and Kubernetes are open source.</p>
+
+<p>Yesterday Google announced an integration of Mesosphere and Kubernetes. They are focusing on providing the scale and horsepower, previously only available to Google, to the open market. That is, the new startups will have access to the same computing resources as the big players.
+<a href="http://googlecloudplatform.blogspot.com/">
+http://googlecloudplatform.blogspot.com/
+</a></p>
+
+<p>Food for thought.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Manifest Thought]]></title>

@@ -154,6 +154,89 @@
 
   <header>
     
+      <h1 class="entry-title"><a href="/blog/2014/08/22/cloud-abstractions/">Cloud Abstractions</a></h1>
+    
+    
+      <p class="meta">
+        
+  
+
+
+  
+    <span class="byline author vcard">by <a href="https://plus.google.com/108592955783550899587?rel=author"><span class="fn">abel sanchez</span></a></span>
+  
+
+ - 
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-08-22T11:45:00-04:00" pubdate data-updated="true">Aug 22<span>nd</span>, 2014</time> - 
+        
+
+posted in
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/cloud/'>cloud</a>, <a class='category' href='/blog/categories/scalability/'>scalability</a>
+  
+</span>
+
+
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Many of us are working on code bases that require high scalability. In this context, there are a couple patterns I have observed over the past year that appear to be formalizing. Both of these could impact our work.</p>
+
+<p>The first is Docker. If you have not used it, the platform abstracts the OS and greatly simplifies deployment. It provides the advantages of a VM, without the weight/size. If a virtual machine is applications+libraries+operatingSystem, then docker is applications+libraries.
+<a href="https://www.youtube.com/watch?v=ZzQfxoMFH0U">
+https://www.youtube.com/watch?v=ZzQfxoMFH0U
+</a>
+<a href="https://www.docker.com/">
+https://www.docker.com/
+</a></p>
+
+<p>The second pattern is abstracting the datacenter into one machine. There are two successful projects. The first started at Twitter, Mesos. The second is from Google, Kubernetes, leverages Docker.
+<a href="https://www.youtube.com/watch?v=Cby5180Q5_o">
+https://www.youtube.com/watch?v=Cby5180Q5_o
+</a>
+<a href="https://github.com/GoogleCloudPlatform/kubernetes">
+https://github.com/GoogleCloudPlatform/kubernetes
+</a></p>
+
+<p>Both Mesos and Kubernetes are open source.</p>
+
+<p>Yesterday Google announced an integration of Mesosphere and Kubernetes. They are focusing on providing the scale and horsepower, previously only available to Google, to the open market. That is, the new startups will have access to the same computing resources as the big players.
+<a href="http://googlecloudplatform.blogspot.com/">
+http://googlecloudplatform.blogspot.com/
+</a></p>
+
+<p>Food for thought.</p>
+</div>
+  
+  
+
+
+</div>
+
+      </article>
+    
+    
+      <article class="span4">
+        <div class="article-format">
+
+  <header>
+    
       <h1 class="entry-title"><a href="/blog/2013/09/01/manifest-thought/">Manifest Thought</a></h1>
     
     
@@ -731,67 +814,6 @@ posted in
 
       </article>
     
-    
-      <article class="span4">
-        <div class="article-format">
-
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2013/05/16/the-teaching-of-formal-programming/">The Teaching of Formal Programming</a></h1>
-    
-    
-      <p class="meta">
-        
-  
-
-
-  
-    <span class="byline author vcard">by <a href="https://plus.google.com/108592955783550899587?rel=author"><span class="fn">abel sanchez</span></a></span>
-  
-
- - 
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-05-16T10:36:00-04:00" pubdate data-updated="true">May 16<span>th</span>, 2013</time> - 
-        
-
-posted in
-<span class="categories">
-  
-    <a class='category' href='/blog/categories/learning/'>learning</a>, <a class='category' href='/blog/categories/programming/'>programming</a>, <a class='category' href='/blog/categories/teaching/'>teaching</a>
-  
-</span>
-
-
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>I read the following last night. It strikes me we could substitute writing for programming and it would hold.</p>
-
-<blockquote><p>For decades researchers have been telling us that &#8220;the teaching of formal grammar has a negligible or &#8230; even a harmful effect on the teaching of writing&#8221; (Richard Braddock, Richard Lloyd-Jones, Lowell Schoer, Research in Written Composition, 1963). I agree if by &#8220;the teaching of formal grammar&#8221; is meant memorizing the parts of speech or rehearsing the distinction between dependent and independent clauses or listing the uses of the subjunctive. That kind of rote knowledge is merely taxonomic. It explains nothing; students who acquire it have learned nothing about how to write, and it is no surprise when research demonstrate its nonutility.</p><footer><strong>Stanley Fish</strong> <cite>How to Write a Sentence</cite></footer></blockquote>
-
-</div>
-  
-  
-
-
-</div>
-
-      </article>
-    
     </div>
       <div class="row">
         <ul class="pager">
@@ -815,6 +837,10 @@ posted in
     <ul class="recent_posts">
       
         <li>
+          <a href="/blog/2014/08/22/cloud-abstractions/">Cloud Abstractions</a>
+        </li>
+      
+        <li>
           <a href="/blog/2013/09/01/manifest-thought/">Manifest Thought</a>
         </li>
       
@@ -828,10 +854,6 @@ posted in
       
         <li>
           <a href="/blog/2013/08/05/imitate-proudly/">imitate proudly</a>
-        </li>
-      
-        <li>
-          <a href="/blog/2013/08/05/lightning-bug-and-lightning/">lightning bug and lightning</a>
         </li>
       
     </ul>
@@ -891,7 +913,7 @@ posted in
   <div class="container">
     <p class="text-center">
   <a href="/">holon</a>
-  - Copyright &copy; 2013 - abel sanchez
+  - Copyright &copy; 2014 - abel sanchez
 </p>
 
   </div>
