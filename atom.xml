@@ -4,7 +4,7 @@
   <title><![CDATA[holon]]></title>
   <link href="http://abelsan.github.com/atom.xml" rel="self"/>
   <link href="http://abelsan.github.com/"/>
-  <updated>2014-08-22T12:02:09-04:00</updated>
+  <updated>2014-08-29T14:29:07-04:00</updated>
   <id>http://abelsan.github.com/</id>
   <author>
     <name><![CDATA[abel sanchez]]></name>
@@ -138,7 +138,8 @@ I have been enjoying, &#8220;The Ascent of Money: A Financial History of the Wor
 
 <p>Below is a short video overview</p>
 
-<p><video width='320' height='240' preload='none' controls poster='http://mit.edu/doval/www/assets/img/blog/nas_720.jpg'><source src='http://doval.scripts.mit.edu/video/nas/nas_720x404.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
+<div class="embed-video-container"><iframe src="http://player.vimeo.com/video/98054594 "></iframe></div>
+
 ]]></content>
   </entry>
   
@@ -192,7 +193,8 @@ I have been enjoying, &#8220;The Ascent of Money: A Financial History of the Wor
     <id>http://abelsan.github.com/blog/2013/05/17/the-case-for-javascript</id>
     <content type="html"><![CDATA[<p>Why JavaScript? I make a case for the growing importance of JavaScript.</p>
 
-<p><video width='320' height='240' preload='none' controls poster='http://mit.edu/doval/www/assets/video/why_javascript.jpg'><source src='http://mit.edu/doval/www/assets/video/why_javascript.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
+<div class="embed-video-container"><iframe src="http://player.vimeo.com/video/104729705 "></iframe></div>
+
 ]]></content>
   </entry>
   
@@ -337,7 +339,8 @@ Experimental features that may be comming to the browser, <a href="https://plus.
 
 <p>The students of my class did a great job answering the question in video form. They are Rory, Pierre, and Rachelle – see below.</p>
 
-<p><video width='320' height='240' preload='none' controls poster='http://doval.scripts.mit.edu/video/cloud/preview_large.jpg'><source src='http://doval.scripts.mit.edu/video/cloud/cloud.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
+<div class="embed-video-container"><iframe src="http://player.vimeo.com/video/104726260 "></iframe></div>
+
 ]]></content>
   </entry>
   

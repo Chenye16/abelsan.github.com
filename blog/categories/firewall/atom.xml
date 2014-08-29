@@ -4,7 +4,7 @@
   <title><![CDATA[Category: firewall | holon]]></title>
   <link href="http://abelsan.github.com/blog/categories/firewall/atom.xml" rel="self"/>
   <link href="http://abelsan.github.com/"/>
-  <updated>2014-08-22T12:02:09-04:00</updated>
+  <updated>2014-08-29T14:29:07-04:00</updated>
   <id>http://abelsan.github.com/</id>
   <author>
     <name><![CDATA[abel sanchez]]></name>
@@ -28,7 +28,7 @@
 
 <p>Below is a short video overview</p>
 
-<p><video width='320' height='240' preload='none' controls poster='http://mit.edu/doval/www/assets/img/blog/nas_720.jpg'><source src='http://doval.scripts.mit.edu/video/nas/nas_720x404.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
+<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/98054594 "></iframe></div></p>
 ]]></content>
   </entry>
   
