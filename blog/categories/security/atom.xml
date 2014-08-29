@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: security | holon]]></title>
+  <link href="http://abelsan.github.com/blog/categories/security/atom.xml" rel="self"/>
+  <link href="http://abelsan.github.com/"/>
+  <updated>2014-08-29T14:29:07-04:00</updated>
+  <id>http://abelsan.github.com/</id>
+  <author>
+    <name><![CDATA[abel sanchez]]></name>
+    <email><![CDATA[abel@mit.edu]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Password Firewall]]></title>
+    <link href="http://abelsan.github.com/blog/2013/06/29/password-firewall/"/>
+    <updated>2013-06-29T17:24:00-04:00</updated>
+    <id>http://abelsan.github.com/blog/2013/06/29/password-firewall</id>
+    <content type="html"><![CDATA[<p>I have been working on Negative Authentication(NA) for the past year. NA is an approach that utilizes a form of complement profiles which resembles the censoring and maturation process of T-cells in the immune system.</p>
+
+<p>Practically, NA is an additional invisible layer of password protection to the user. You can think of it as a mathematical plane that leaves small openings for the real passwords and blocks the rest.</p>
+
+<p><img src="http://mit.edu/doval/www/assets/img/blog/nas_firewall.png"></p>
+
+<p>In a way, Negative Authentication is a firewall for passwords, a way to detect the anti-passwords.</p>
+
+<p>Below is a short video overview</p>
+
+<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/98054594 "></iframe></div></p>
+]]></content>
+  </entry>
+  
+</feed>

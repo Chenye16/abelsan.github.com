@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: naming | holon]]></title>
+  <link href="http://abelsan.github.com/blog/categories/naming/atom.xml" rel="self"/>
+  <link href="http://abelsan.github.com/"/>
+  <updated>2014-08-29T14:29:07-04:00</updated>
+  <id>http://abelsan.github.com/</id>
+  <author>
+    <name><![CDATA[abel sanchez]]></name>
+    <email><![CDATA[abel@mit.edu]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[lightning bug and lightning]]></title>
+    <link href="http://abelsan.github.com/blog/2013/08/05/lightning-bug-and-lightning/"/>
+    <updated>2013-08-05T11:50:00-04:00</updated>
+    <id>http://abelsan.github.com/blog/2013/08/05/lightning-bug-and-lightning</id>
+    <content type="html"><![CDATA[<p>Mark Twain famously said, "The difference between the almost right word &amp; the right word is really a large matter--it's the difference between the lightning bug and the lightning."</p>
+
+<p>When it comes to naming variables, objects, functions, classes, and namespaces, the same applies.</p>
+
+<p>Clarity and expressiveness come with experience. However, the beginner can still learn a lot by looking at conventions, best practices, reading code from peers, and thinking hard about a word that best express the programmer's intent.</p>
+
+<p><img src="http://mit.edu/doval/www/assets/img/blog/lightning.jpg"></p>
+]]></content>
+  </entry>
+  
+</feed>

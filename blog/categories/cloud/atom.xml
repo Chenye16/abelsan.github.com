@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: cloud | holon]]></title>
+  <link href="http://abelsan.github.com/blog/categories/cloud/atom.xml" rel="self"/>
+  <link href="http://abelsan.github.com/"/>
+  <updated>2014-08-29T14:29:07-04:00</updated>
+  <id>http://abelsan.github.com/</id>
+  <author>
+    <name><![CDATA[abel sanchez]]></name>
+    <email><![CDATA[abel@mit.edu]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Cloud Abstractions]]></title>
+    <link href="http://abelsan.github.com/blog/2014/08/22/cloud-abstractions/"/>
+    <updated>2014-08-22T11:45:00-04:00</updated>
+    <id>http://abelsan.github.com/blog/2014/08/22/cloud-abstractions</id>
+    <content type="html"><![CDATA[<p>Many of us are working on code bases that require high scalability. In this context, there are a couple patterns I have observed over the past year that appear to be formalizing. Both of these could impact our work.</p>
+
+<p>The first is Docker. If you have not used it, the platform abstracts the OS and greatly simplifies deployment. It provides the advantages of a VM, without the weight/size. If a virtual machine is applications+libraries+operatingSystem, then docker is applications+libraries.  <br/>
+<a href="https://www.youtube.com/watch?v=ZzQfxoMFH0U">
+https://www.youtube.com/watch?v=ZzQfxoMFH0U
+</a>  <br/>
+<a href="https://www.docker.com/">
+https://www.docker.com/
+</a></p>
+
+<p>The second pattern is abstracting the datacenter into one machine. There are two successful projects. The first started at Twitter, Mesos. The second is from Google, Kubernetes, leverages Docker.  <br/>
+<a href="https://www.youtube.com/watch?v=Cby5180Q5_o">
+https://www.youtube.com/watch?v=Cby5180Q5_o
+</a>  <br/>
+<a href="https://github.com/GoogleCloudPlatform/kubernetes">
+https://github.com/GoogleCloudPlatform/kubernetes
+</a></p>
+
+<p>Both Mesos and Kubernetes are open source.</p>
+
+<p>Yesterday Google announced an integration of Mesosphere and Kubernetes. They are focusing on providing the scale and horsepower, previously only available to Google, to the open market. That is, the new startups will have access to the same computing resources as the big players.  <br/>
+<a href="http://googlecloudplatform.blogspot.com/">
+http://googlecloudplatform.blogspot.com/
+</a></p>
+
+<p>Food for thought.</p>
+]]></content>
+  </entry>
+  
+</feed>

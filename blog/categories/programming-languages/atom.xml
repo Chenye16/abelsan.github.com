@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: programming languages | holon]]></title>
+  <link href="http://abelsan.github.com/blog/categories/programming-languages/atom.xml" rel="self"/>
+  <link href="http://abelsan.github.com/"/>
+  <updated>2014-08-29T14:29:07-04:00</updated>
+  <id>http://abelsan.github.com/</id>
+  <author>
+    <name><![CDATA[abel sanchez]]></name>
+    <email><![CDATA[abel@mit.edu]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Case for JavaScript]]></title>
+    <link href="http://abelsan.github.com/blog/2013/05/17/the-case-for-javascript/"/>
+    <updated>2013-05-17T05:32:00-04:00</updated>
+    <id>http://abelsan.github.com/blog/2013/05/17/the-case-for-javascript</id>
+    <content type="html"><![CDATA[<p>Why JavaScript? I make a case for the growing importance of JavaScript.</p>
+
+<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/104729705 "></iframe></div></p>
+]]></content>
+  </entry>
+  
+</feed>
